@@ -1,0 +1,39 @@
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+simple_mnist
+elastic_mnist
+model*.bin
+
+# Elastic MNIST files (not ready for GitHub yet)
+src/elastic_mnist.c
+src/elastic_mnist_loader.c
+include/elastic_mnist_loader.h
+Makefile.elastic
+
+# Build directories
+build/
+dist/
+bin/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.directory
+
+# MNIST data files (users should download these themselves)
+mnist_data/
+
+# Backup files
+backups/
+
+# Log files
+*.log
