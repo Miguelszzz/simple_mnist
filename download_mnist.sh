@@ -1,5 +1,5 @@
-#!/bin/bash
-# Download and prepare the MNIST dataset for QGT-MNIST
+#!/usr/bin/env bash
+# Download and prepare the MNIST dataset for SIMPLE-MNIST
 # This script downloads the MNIST dataset from Google Cloud Storage,
 # which is a reliable mirror of the original dataset.
 
@@ -27,7 +27,7 @@ files=(
 for file in "${files[@]}"; do
   echo -e "Downloading ${file}..."
   wget -q --show-progress https://storage.googleapis.com/cvdf-datasets/mnist/${file}
-  
+
   # Check if download was successful
   if [ $? -ne 0 ]; then
     echo -e "${RED}Error: Failed to download ${file}${NC}"
@@ -81,9 +81,9 @@ echo "- ${test_images_count} test images (28x28 pixels)"
 
 echo -e "\n${GREEN}MNIST dataset has been downloaded and prepared successfully${NC}"
 echo -e "Path to MNIST data: $(pwd)"
-echo -e "You can use this path as an argument to qgt_mnist:"
-echo -e "${BLUE}./qgt_mnist $(pwd)${NC}"
+echo -e "You can use this path as an argument to simple_mnist:"
+echo -e "${BLUE}./simple_mnist $(pwd)${NC}"
 echo -e "Or if you're in the build directory:"
-echo -e "${BLUE}./qgt_mnist ../mnist_data${NC}"
+echo -e "${BLUE}./simple_mnist ./mnist_data${NC}"
 
 exit 0
